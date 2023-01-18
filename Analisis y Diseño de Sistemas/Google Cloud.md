@@ -1,0 +1,25 @@
+- Aumento de productividad de las *empresas* 
+	- Adopcion del cloud e infraestructura de la compañia
+- Transformacion digital de españa
+- Implement Economics 
+	- Adopcion de nube en la productivdad de empresas
+	- Inversion de infraestructura cloud desplegada
+- Eficiencia de usuarios
+- Nivel de digitalizacion es la adopcion de la nube.
+- Correlacion directa entre servicios de la nube y aumento de productividad de empresas (Mayor calidad en productos y servicios).
+	- Puestos de trabajo innecesarios para hacer mas productivos
+- Industria, pequeñas y medianas empresas se benefician (productividad de 4 a 9%)
+	- Aplicaciones contables y software de CRM
+- Garantias de seguridad y latencia
+- PYME sin inversion inicial y capaciticion de TI a empleados
+- España compuesto por pequeñas y medianas empreas
+- Contribucion de aptitudes TI por parte de Goolge (Grow with Google)
+- Actividad Economica adicional en base a la inversion de infraestructura
+	- Directo: Ventas de Servicios cloud, migracion, instalacion y mantenimiento
+	- Indirecto: Proveedores locales involucrados en proceso
+	- Inducido: Actividad economica generada por empleados y proveedores en otros sectores industriales
+- Aumento del PIB del pais
+- Apertura de centro de datos
+- Instalacion de cable submarino, que conecta a españa con Uk y EEUU (Integracion robusta de cloud en España "Mayor calidad, menos latencia y mas ancho de banda").
+- Cuidado del medio ambiente por medio de tecnologia sostenibles que reducen huella de carbono
+- Operacion con energia libre de carbono
