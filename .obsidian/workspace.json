@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Angular/Componentes.md",
+                "file": "Analisis y Modelos/Modelos No Lineales.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Angular/Componentes.md",
+                "file": "Analisis y Modelos/Modelos No Lineales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Angular/Componentes.md",
+                "file": "Analisis y Modelos/Modelos No Lineales.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Angular/Componentes.md"
+                "file": "Analisis y Modelos/Modelos No Lineales.md"
               }
             }
           }
@@ -148,5 +148,9 @@
     }
   },
   "active": "64fb6751e8c291b1",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Analisis y Modelos/Regresion Logistica.md",
+    "Analisis y Modelos/Modelos No Lineales.md",
+    "Angular/Componentes.md"
+  ]
 }
