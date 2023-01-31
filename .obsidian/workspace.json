@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "08092a9a3ee88f18",
+        "id": "d97de0327a012d97",
         "type": "tabs",
         "children": [
           {
-            "id": "64fb6751e8c291b1",
+            "id": "3296df5fc8036c49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Analisis y Modelos/Modelos No Lineales.md",
+                "file": "Sistemas Distribuidos/Load Balancer Repaso.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Analisis y Modelos/Modelos No Lineales.md",
+                "file": "Sistemas Distribuidos/Load Balancer Repaso.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Analisis y Modelos/Modelos No Lineales.md",
+                "file": "Sistemas Distribuidos/Load Balancer Repaso.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Analisis y Modelos/Modelos No Lineales.md"
+                "file": "Sistemas Distribuidos/Load Balancer Repaso.md"
               }
             }
           }
@@ -147,10 +147,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "64fb6751e8c291b1",
+  "active": "3296df5fc8036c49",
   "lastOpenFiles": [
-    "Analisis y Modelos/Regresion Logistica.md",
-    "Analisis y Modelos/Modelos No Lineales.md",
-    "Angular/Componentes.md"
+    "Sistemas Distribuidos/Escalabilidad Repaso.md",
+    "Sistemas Distribuidos/Docker Repaso.md",
+    "Sistemas Distribuidos/Escalabilidad.md",
+    "Sistemas Distribuidos/Load Balancer Repaso.md",
+    "Angular/Youtube_Basics/Componentes.md",
+    "Angular/Youtube_Basics/Introduccion Angular.md",
+    "Angular/Documentation/Introduction/Angular.md",
+    "Angular/Documentation/Index.md",
+    "Angular/Documentation/Introduction/Intro Angular Concepts.md",
+    "Angular/Documentation/Templates.md"
   ]
 }
